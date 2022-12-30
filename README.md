@@ -1,5 +1,5 @@
 # music-player-frontend-
-A front end project  using htm and css
+A front end project  using html and css
 
 
 ![1](https://user-images.githubusercontent.com/95235530/210079847-0b2f0fbf-6825-428c-bd71-d637a545164a.png)
